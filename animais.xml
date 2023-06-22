@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mitologia xmlns ="http://www.animais.org"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://www.animais.org
+                             animais.xsd">
+    <mito>
+        <nome>Anubis</nome>
+        <religiao>Egipcia</religiao>
+        <imagem>anubis.jpg</imagem>
+        <especie>Chacal</especie>
+        <descricao>Deus dos mortos e moribundos</descricao>
+    </mito>
+    <mito>
+        <nome>Pegaso</nome>
+        <religiao>Grega</religiao>
+        <imagem>pegasus.jpg</imagem>
+        <especie>Cavalo</especie>
+        <descricao>Cavalo alado, simbolo da imortalidade</descricao>
+    </mito>
+    <mito>
+        <nome>Fenrir</nome>
+        <religiao>Nordica</religiao>
+        <imagem>fenrir.jpg</imagem>
+        <especie>Lobo</especie>
+        <descricao>Um lobo monstruoso que foi acorrentado e devorou a mão direita do deus Tyr</descricao>
+    </mito>
+</mitologia>
