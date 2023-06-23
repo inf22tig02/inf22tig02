@@ -1,6 +1,6 @@
 # My example work assignment Title
 
-Repository to host the project developed for 'some class', a fisrt year subject at SOMESCHOOL. Developed by Group ALPHA : [@MarcoOliveira](https://github.com/marcoamarooliveira), [add others].
+Repository to host the project developed for 'Tecnologias Internet', a first year subject at UMAIA - Universidade da Maia. Developed by Group 02 : [@JoaoHorvath](https://github.com/jrodaczy), [@OtavioAraujo](https://github.com/Otavio-A) and [@IvoLeite](https://github.com/LeiteIvo).
 
 ## Short theme description
 
@@ -50,5 +50,6 @@ _Please add at least on section (a file) per Chapter. But you can add more._
 * Chapter 4: [Presentation](doc/c4.md)
 
 ## Team
-* Marco Amaro Oliveira [@MarcoOliveira](https://github.com/marcoamarooliveira)
-* Other team members
+* João Matheus Rodaczynski Horvath [@JoaoHorvath](https://github.com/jrodaczy)
+* Otávio Affonso Araújo [@OtavioAraujo](https://github.com/Otavio-A)
+* Ivo Leite [@IvoLeite](https://github.com/LeiteIvo)
