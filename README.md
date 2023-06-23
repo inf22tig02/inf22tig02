@@ -19,14 +19,11 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ## Technologies
 
-_Indicate the technologies you have used in this assignment. Please provide links for the user to read more about those technologies._
 * XML
 * HTML5 + CSS3
 * Javascript
 
 ### Frameworks and Libraries
-
-_Did you use any aditional libraries? Describe them here._
 
 * Bootstrap
 
