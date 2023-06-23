@@ -2,7 +2,7 @@
 
 Repository to host the project developed for 'Tecnologias Internet', a first year subject at UMAIA - Universidade da Maia. Developed by Group 02 : [@JoaoHorvath](https://github.com/jrodaczy), [@OtavioAraujo](https://github.com/Otavio-A) and [@IvoLeite](https://github.com/LeiteIvo).
 
-## Short theme description
+## Animais na mitologia
 
 An example report using markdown on Github. This documentation is writen using [Markdown](https://www.markdownguide.org/). Here is a [link to the basic syntax](https://www.markdownguide.org/basic-syntax), but an [extended syntax](https://www.markdownguide.org/extended-syntax/) is also available. If you're starting with Markdown, you may want to try a [Markdown Tutorial](https://www.markdowntutorial.com/) and read the [getting started](https://www.markdownguide.org/getting-started/) section.
 
@@ -23,18 +23,11 @@ _Indicate the technologies you have used in this assignment. Please provide link
 * XML
 * HTML5 + CSS3
 * Javascript
-* PHP
-* nodeJS
-* _Any other?_
 
 ### Frameworks and Libraries
 
 _Did you use any aditional libraries? Describe them here._
-* Docker
-* Multipass
-* NodeJS
-* JQuery
-* Laravel
+
 * Bootstrap
 
 ## Report
