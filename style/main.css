@@ -133,11 +133,24 @@ img{
     position: absolute;
     top: 0;
     left: 0;
+    
 }
 
 .js .laptop-slider figure.show{
     opacity: 1;
     position: static;
+}
+
+.js .laptop-slider figure img{
+    position: relative;
+    margin-left: 0;
+    margin-right: 0;
+    width: 100%;
+    min-height: 60vw;
+    border: 5px, solid, #242a2c;
+    border-radius: 5px;
+    
+    
 }
 
 .js .laptop-slider .prev, .js .laptop-slider .next{
@@ -480,9 +493,7 @@ img{
         grid-gap: 30px;
     }
 
-    .last-articles__thumbs{
-        grid-template-columns: repeat(6, 1fr);
-    }
+
 
     .footer .container{
         display: flex
@@ -504,13 +515,16 @@ img{
         margin-left: 0;
         margin-right: 0;
         width: 100%;
+ 
+        
         
         
     }
 
     .js .laptop-slider figure{
         width: 100%;
-        margin: 0;  
+        margin: 0;
+        
         
     }
 
