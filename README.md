@@ -1,4 +1,4 @@
-# My example work assignment Title
+# Grupo 2 - Tecnologias de Internet - UMAIA
 
 Repository to host the project developed for 'Tecnologias Internet', a first year subject at UMAIA - Universidade da Maia. Developed by Group 02 : [@JoaoHorvath](https://github.com/jrodaczy), [@OtavioAraujo](https://github.com/Otavio-A) and [@IvoLeite](https://github.com/LeiteIvo).
 
