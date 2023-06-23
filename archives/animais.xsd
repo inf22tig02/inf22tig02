@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema"
+    targetNamespace="http://www.animais.org"
+    xmlns:tns="http://www.w3.rg/2001/XMLSchema"
+    elementFormDefault="qualified">
+    <xs:element name="mitologia">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name= "mito" maxOccurs="unbounded" minOccurs="1">
+                    <xs:complexType>
+                        <xs:sequence>
+                            <xs:element type="xs:string" name="nome" maxOccurs="unbounded" minOccurs="0"></xs:element>
+                            <xs:element type="xs:string" name="religiao" maxOccurs="unbounded" minOccurs="0"></xs:element>
+                            <xs:element name="imagem" maxOccurs="unbounded" minOccurs="0">
+                                <xs:simpleType>
+                                    <xs:restriction base="xs:anyURI">
+                                        <xs:pattern value="(.)+\.(gif|jpg|jpeg|bmp)"/>
+                                    </xs:restriction>
+                                </xs:simpleType>
+                            </xs:element>
+                            <xs:element type="xs:string" name="especie" maxOccurs="unbounded" minOccurs="0"></xs:element>
+                            <xs:element type="xs:string" name="descricao" maxOccurs="unbounded" minOccurs="0"></xs:element>
+                        </xs:sequence>
+                    </xs:complexType>
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>    
+</xs:schema>

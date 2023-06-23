@@ -38,6 +38,7 @@ img{
     margin-right: 15px;
     display: inline-block;
     transition: ease .5s;
+    text-transform: uppercase;
 
 }
 
@@ -46,7 +47,7 @@ img{
 }
 
 .button-primary{
-    background: #63c6ae;
+    background: #F29F05;
     color: white;
 }
 
@@ -495,6 +496,7 @@ img{
 
     .js .laptop-slider .slideshow{
         max-width: 70%;
+        
     }
 
     .js .laptop-slider figure img{
@@ -502,11 +504,13 @@ img{
         margin-left: 0;
         margin-right: 0;
         width: 100%;
+        
+        
     }
 
     .js .laptop-slider figure{
         width: 100%;
-        margin: 0;
+        margin: 0;  
         
     }
 
