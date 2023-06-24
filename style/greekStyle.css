@@ -400,9 +400,8 @@ img{
     }
 
     .content .container{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        grid-gap: 30px;
+        display: block;
+        
     }
 
     .content .container h1{
