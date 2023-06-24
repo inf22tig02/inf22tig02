@@ -398,6 +398,12 @@ img{
         grid-gap: 30px;
     }
 
+    .content .container h1{
+        margin-top: 60px;
+        color: #737c85;
+        font-weight:bold;
+    }
+
 
 
     .footer .container{
