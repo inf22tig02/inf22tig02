@@ -11,6 +11,20 @@
         <descricao>Deus dos mortos e moribundos</descricao>
     </mito>
     <mito>
+        <nome>Ra</nome>
+        <religiao>Egipcia</religiao>
+        <imagem>anubis.jpg</imagem>
+        <especie>Possivelmente um Falcão-Peregrino</especie>
+        <descricao>Deus do Sol</descricao>
+    </mito>
+    <mito>
+        <nome>Sekhmet</nome>
+        <religiao>Egipcia</religiao>
+        <imagem>anubis.jpg</imagem>
+        <especie>Leoa</especie>
+        <descricao>Deusa da Guerra</descricao>
+    </mito>
+    <mito>
         <nome>Pegaso</nome>
         <religiao>Grega</religiao>
         <imagem>pegasus.jpg</imagem>
@@ -18,10 +32,38 @@
         <descricao>Cavalo alado, simbolo da imortalidade</descricao>
     </mito>
     <mito>
+        <nome>Leão de nemeia</nome>
+        <religiao>Grega</religiao>
+        <imagem>lion1.jpg</imagem>
+        <especie>Leão</especie>
+        <descricao>Leão com um couro impenetrável</descricao>
+    </mito>
+    <mito>
+        <nome>Cerberus</nome>
+        <religiao>Grega</religiao>
+        <imagem>pegasus.jpg</imagem>
+        <especie>Cachorro</especie>
+        <descricao>Cachorro de três cabeças que protege os portões do sub-mundo</descricao>
+    </mito>
+    <mito>
         <nome>Fenrir</nome>
         <religiao>Nordica</religiao>
         <imagem>fenrir.jpg</imagem>
         <especie>Lobo</especie>
         <descricao>Um lobo monstruoso que foi acorrentado e devorou a mão direita do deus Tyr</descricao>
+    </mito>
+    <mito>
+        <nome>Ratatoskr</nome>
+        <religiao>Nordica</religiao>
+        <imagem>ratatoskr.jpg</imagem>
+        <especie>Esquilo</especie>
+        <descricao>Esquilo que escala a arvore da vida Yggdrasil e repassa mensagens</descricao>
+    </mito>
+    <mito>
+        <nome>Huginn e Munin</nome>
+        <religiao>Nordica</religiao>
+        <imagem>huginnmuninn.jpg</imagem>
+        <especie>Corvos</especie>
+        <descricao>Par de corvos que viajam o mundo nordico e relatam seus acontecimentos a Odin</descricao>
     </mito>
 </mitologia>
