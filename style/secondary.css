@@ -10,6 +10,16 @@ img{
     max-width: 100%;
 }
 
+cite a:link{
+    text-decoration: none;
+    color: #F29F05;
+}
+
+cite a:visited{
+    color: grey;
+}
+
+
 .container{
     margin-right: auto;
     margin-left: auto;
@@ -381,8 +391,6 @@ img{
         
         
     }
-
-    
 
 
     .logo-text{
