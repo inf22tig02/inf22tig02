@@ -190,8 +190,10 @@ img{
     flex-direction: column;
     align-items: center;
 
-    background: 
+    background:
     url(../img/bg-1.jpg) center no-repeat;
+   
+    
 }
 
 .hero__abbr[title]{
@@ -321,12 +323,10 @@ img{
 
 .slideshow{
     white-space: nowrap;
-
 }
 
 .slideshow figure{
     display: inline-block;
-
 }
 
 
