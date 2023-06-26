@@ -11,6 +11,11 @@ img{
 }
 
 
+#esc{
+    visibility: hidden;
+}
+
+
 
 .container{
     margin-right: auto;
