@@ -25,7 +25,6 @@ A [table](https://www.markdownguide.org/extended-syntax/#tables) may be usefull 
 
 ### Frameworks and Libraries
 
-* Bootstrap
 
 ## Report
 _Please add at least on section (a file) per Chapter. But you can add more._
