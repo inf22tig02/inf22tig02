@@ -158,7 +158,7 @@ img{
     margin-right: 0;
     width: 100%;
     height: 50vh;
-    border: 5px, solid, #242a2c;
+    border: 5px solid #242a2c;
     border-radius: 25px;
     object-fit:contain;
     
